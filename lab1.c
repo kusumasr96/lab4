@@ -1,4 +1,6 @@
-#include<stdio.h>
+s#include<stdio.h>
 int main()
 {
+  sort();
+  search();
 }
